@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.exe
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.deps.json
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.json
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.dev.json
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\test\source\repos\PartyInvites\Data\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\test\source\repos\PartyInvites\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\PartyInvites\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
+C:\Users\test\source\repos\PartyInvites\Data\obj\Debug\netcoreapp3.0\Data.dll
+C:\Users\test\source\repos\PartyInvites\Data\obj\Debug\netcoreapp3.0\Data.pdb
+C:\Users\test\source\repos\PartyInvites\Data\obj\Debug\netcoreapp3.0\Data.csprojAssemblyReference.cache
